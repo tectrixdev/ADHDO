@@ -1,7 +1,12 @@
 import Image from "next/image";
+import Tagline from "@/components/tagline";
+import Divider from "@/components/divider";
 
 export default function Home() {
   return (
-    <p>adhdo!</p>
+    <main>
+      <Tagline line="ADHDO" />
+      <Divider />
+    </main>
   );
 }
