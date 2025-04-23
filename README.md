@@ -1,4 +1,4 @@
-# join [https://discord.gg/3AZKjkjxzJ](https://discord.gg/3AZKjkjxzJ) for updates and support
+ # join [https://discord.gg/3AZKjkjxzJ](https://discord.gg/3AZKjkjxzJ) for updates and support
 
 # ~~MOBILE LAYOUT BROKEN, WIL FIX SOON~~ mobile layout broken again
 
