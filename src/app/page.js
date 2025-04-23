@@ -38,7 +38,7 @@ export default function site() {
       >
         <a
           title="view source code"
-          href="https://github.com/jojommeke/ADHDO"
+          href="https://github.com/tectrixdev/ADHDO"
           id="github"
           className="size-10 bg-[url('github.png')] bg-cover bg-center transition-none hover:invert"
         />
