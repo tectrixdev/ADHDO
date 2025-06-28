@@ -1,11 +1,14 @@
 # join [https://discord.gg/3AZKjkjxzJ](https://discord.gg/3AZKjkjxzJ) for updates and support
 
+# While you wait: https://super-productivity.com/
+
 > [!NOTE]  
 > This is currently being fully remade.
 > This was the first project I ever made with nextjs and got me started with it, I gained a lot of experience throughout my journey.
-> So I decided to redo it as lots of people are starring and intrested!
+> So I decided to redo it as lots of people are starring and interested!
 >
 > Roadmap:
+>
 > - [ ] finish remake
 > - [ ] github login and user data + asymmetric encryption
 > - [ ] get custom domain like adhdo.app
@@ -53,7 +56,7 @@ Joran Hennion [Tectrixdev](https://tectrix.dev/) (frontend)
 
 - everyone that helps issues get solved
 
-- every donator or supportor
+- every donator or supporter
 
 - YOU
 
