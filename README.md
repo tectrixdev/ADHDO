@@ -15,15 +15,6 @@
 
 ### _A todo app aiming to motivate people with ADHD_
 
-inspired by:
-
-[Gamify - YouTube](https://www.youtube.com/shorts/wsUQX1vErE8) - piratesoftware
-
-[ADHD Gaming - YouTube](https://www.youtube.com/shorts/e4-I4nmNAHE) - piratesoftware
-
-_PS: you can always mention this site on his stream!_
-_also, if you get his attention on stream please send me a vod/clip or make an issue and show it, it means lots to us_
-
 ## About ADHDO:
 
 ADHDO is made to motivate users (with ADHD) to do certain todos that have deadlines and help them accomplish them efficiently.
@@ -49,8 +40,6 @@ ADHDO is just like any other todo app **BUT** with a catch:
 Joran Hennion [Tectrixdev](https://tectrix.dev/) (frontend)
 
 ## Special thanks:
-
-- Of course piratesoftware for the original idea
 
 - all contributors
 
